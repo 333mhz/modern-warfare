@@ -1,0 +1,4 @@
+[submodule "weaponlib"]
+	path = weaponlib
+	url = https://github.com/333mhz/weaponlib
+	shallow = false
