@@ -78,6 +78,8 @@ local.properties
 
 ### Vscode ###
 .Vscode
+.vscode
+.vscode/*
 
 # forgegradle
 run/
